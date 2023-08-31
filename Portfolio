@@ -1,0 +1,25 @@
+<!Doctype html>
+<html lang="pt-br">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="author" content="Alexandre Farias"
+<title>Portfolio</title>
+<link rel="stylesheet" type="text/css" href="./Styles.Css">
+<script src="./JavaScript.js"></script>
+
+</head>
+<body></body>
+<h1>Meu Portfolio</h1>
+<h2>Formação</h2>
+<h3>Currículo</h3>
+<h4>Habilidades</h4>
+<h5>Conhecimentos</h5>
+<h6>Projetos</h6>
+<p>Nesse documento, tenho o intuito de dissertar a respeito de minhas qualidades profissionais e compartilhar meus conhecimentos, formação e outros recursos que posso fazer uso no mercado de trabalho durante minha profissão.</p>
+<a href="https://github.com/ycastiel/DoctypeHTMLPortfolio">Acesso o Google</a>
+<img src="https://th.bing.com/th/id/OIP.n2I5OApXgXxpUzFHtldpFQAAAA?pid=ImgDet&rs=1"
+<span>Meu desenvolvimento profissional</span>
+</body>
+</html>
